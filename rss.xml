@@ -4,7 +4,7 @@
         <description><![CDATA[GretzSpeaks]]></description>
         <link>https://thegrid.ai/gretzspeaks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 16:46:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 16:46:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gretzspeaks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[CodeStock - A Two-Day Event for Technology and Information Exchange]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.codestock.org/</link>
             <guid isPermaLink="false">e199c7b6-70c9-4267-8acc-979b8f42bdc4</guid>
             <pubDate>Sat, 09 Jul 2016 16:46:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our Sessions - dev up Conference]]></title>
+            <description><![CDATA[<article><h1>Our Sessions - dev up Conference</h1><p>React Native promises to answer these needs without the compromise. In this talk, we will explore how React Native empowers developers to create native apps that are delightful to use and answer the real needs of business.</p><img src="http://devupconf.org/Content/Themes/Site/images/primary-brand.png"></article>]]></description>
+            <link>http://devupconf.org/Sessions/9</link>
+            <guid isPermaLink="false">9a3640fc-2cc4-4cbf-9796-1e4e74a5211b</guid>
+            <pubDate>Sat, 09 Jul 2016 16:46:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[React Native To The Rescue]]></title>
