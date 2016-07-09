@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GretzSpeaks]]></title>
+        <description><![CDATA[GretzSpeaks]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jul 2016 16:42:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Robot Royal Rumble :: TechBash 2016]]></title>
+            <description><![CDATA[<article><h1>Robot Royal Rumble :: TechBash 2016</h1><p>TechBash 2016 is a conference in the Northeast United States that inspires attendees to build great things using their web development and software development skills.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b6a5381b18fdad8b0d2b2b117ce06a4e/noop?input=http%3A%2F%2Ftechbash.com%2Favatars%2Fjoshgretz"></article>]]></description>
+            <link>http://techbash.com/sessions/robot-royal-rumble</link>
+            <guid isPermaLink="false">2a728d8c-2467-4b91-8a17-e9750d5b4712</guid>
+            <pubDate>Sat, 09 Jul 2016 16:42:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
