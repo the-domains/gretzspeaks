@@ -1,0 +1,14 @@
+layout_spectrum: 0.7258259686641395
+typography_spectrum: 0.715193655109033
+color:
+  brandStrength: 0.88505012053065
+  lightness: 0.47305917809717357
+  saturation: 0.38869800162501633
+  rhythmicContrast: 0.1591770371887833
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+name: GretzSpeaks
